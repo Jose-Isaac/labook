@@ -36,13 +36,13 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/future4code/Jose-Isaac-Campos>
+$ git clone <https://github.com/Jose-Isaac/labook.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd ./Jose-Isaac-Campos
 
 # Vá para a pasta desse projeto
-$ cd ./semana19/labook
+$ cd ./labook
 
 # Instale as dependências
 $ npm install
